@@ -1,18 +1,17 @@
-- [ ] Verify that this issue is related to Torch and not a Torch plugin or the vanilla game
-- [ ] Ensure that the issue is reproducible for testing (provide a link to a test world if necessary)
-- [ ] Is this a suggestion?
-
+- [ ] Vérifiez que ce problème est lié à Torch et non à un plugin Torch ou au jeu vanilla
+- [ ] Assurez-vous que le problème est reproductible pour les tests (fournissez un lien vers un monde de test si nécessaire)
+- [ ] Est-ce une suggestion?
 **Torch Version:** 1.x.xxx.xxx **SE Version:** 1.xxx.xxx
 
-### Expected Behavior
-What did you expect to happen?
+### Comportement attendu
+À quoi vous attendiez-vous?
 
-### Observed Behavior
-What actually happened?
+### Comportement observé
+Que s'est-il réellement passé?
 
-### Steps to Reproduce
-1. How did this issue get triggered?
-2. Write the steps here.
+### Étapes à reproduire
+1. Comment ce problème s'est-il déclenché?
+2. Écrivez les étapes ici.
 
-### Other Information
-Provide links to game logs or saves here if necessary.
+### Les autres informations
+Fournissez ici des liens vers les logs du jeu ou sauvegardes si nécessaire.
